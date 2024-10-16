@@ -1,0 +1,20 @@
+101 Computer Science
+202 Mathematics
+303 Physics
+404 Biology
+505 Chemistry
+606 History
+707 English
+808 Psychology
+909 Sociology
+010 Economics
+111 Anthropology
+212 Geography
+313 Political Science
+414 Philosophy
+515 Art
+616 Music
+717 Drama
+818 Business
+919 Engineering
+020 Health Sciences

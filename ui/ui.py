@@ -1,5 +1,5 @@
 from src.service.service import Service
-from src.exceptions import InvalidInput, InvalidId, InvalidGrade, InvalidDiscipline, UndoRedoException
+from src.utils.exceptions import InvalidInput, InvalidId, InvalidGrade, InvalidDiscipline, UndoRedoException
 from jproperties import Properties
 
 

@@ -1,4 +1,4 @@
-from src.exceptions import InvalidInput, InvalidId, InvalidGrade, InvalidDiscipline
+from src.utils.exceptions import InvalidInput, InvalidId, InvalidGrade, InvalidDiscipline
 from src.repository.memoryRepo import Repository
 from src.repository.pickleRepo import PickleRepository
 from src.repository.textfileRepo import TextRepository

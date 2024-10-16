@@ -1,4 +1,4 @@
-from src.exceptions import UndoRedoException
+from src.utils.exceptions import UndoRedoException
 
 
 class Command:
